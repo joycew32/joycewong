@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: "profile.jpg"
+image: "SP.jpg"
 weight: 8
 ---
 
