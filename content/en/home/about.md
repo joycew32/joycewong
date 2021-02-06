@@ -4,12 +4,14 @@ image: "SP.jpg"
 weight: 8
 ---
 
-I love my boyfriend. I am the mother of three fur babies. I am a psychiatry resident. 
+I am the mother of three fur babies. I am a psychiatry resident. 
 
-### Interested in:
+### Interests:
 * Organization
 * Reading
 * Camping
 * Travel
-* Budgeting
+* Personal Finance
+* Zero Waste
+* Podcasts
 
