@@ -11,7 +11,7 @@ Parks & Rec.
 ### Interests:
 * Organization
 * Reading
-* Camping
+* Campi
 * Traveling
 * Personal Finance
 * Zero Waste
