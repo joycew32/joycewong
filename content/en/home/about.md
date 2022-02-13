@@ -4,13 +4,15 @@ image: "jw.jpg"
 weight: 8
 ---
 
-I am the mother of three fur babies. I am a psychiatry resident. 
+Psychiatry resident in NC. 
+Mother of 3 cats, 2 dogs. 
+Parks & Rec. 
 
 ### Interests:
 * Organization
 * Reading
 * Camping
-* Travel
+* Traveling
 * Personal Finance
 * Zero Waste
 * Podcasts
